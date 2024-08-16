@@ -1,0 +1,182 @@
+[
+    {
+        "productName": "Wireless Bluetooth Headphones",
+        "productImage": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/h/o/hoco_esd15_wireless_bluetooth_headphones_silver.jpg",
+        "description": "High-quality wireless Bluetooth headphones with noise-canceling features.",
+        "price": 59.99,
+        "category": "Electronics",
+        "ratings": 4.5,
+        "creationDate": "2024-08-14T08:30:00Z"
+    },
+    {
+        "productName": "Smartwatch Series 5",
+        "productImage": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/c/o/colmi_p28_plus_smart_watch.jpg",
+        "description": "Advanced smartwatch with health tracking and customizable watch faces.",
+        "price": 299.99,
+        "category": "Wearables",
+        "ratings": 4.8,
+        "creationDate": "2024-08-13T12:45:00Z"
+    },
+    {
+        "productName": "Ergonomic Office Chair",
+        "productImage": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/h/a/havit_gc939_gaming_chair_-bdshop.jpg",
+        "description": "Comfortable ergonomic office chair with adjustable height and lumbar support.",
+        "price": 149.99,
+        "category": "Furniture",
+        "ratings": 4.2,
+        "creationDate": "2024-08-12T09:15:00Z"
+    },
+    {
+        "productName": "Stainless Steel Water Bottle",
+        "productImage": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/i/m/xiaomi-mijia-mini-350ml-vacuum-flask-portable-travel-water-bottle-black.jpg",
+        "description": "Durable stainless steel water bottle with a vacuum seal to keep drinks cold.",
+        "price": 19.99,
+        "category": "Home & Kitchen",
+        "ratings": 4.7,
+        "creationDate": "2024-08-11T14:20:00Z"
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "productImage": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/s/o/sony_bravia_xr_2.jpg",
+        "description": "55-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps.",
+        "price": 499.99,
+        "category": "Electronics",
+        "ratings": 4.6,
+        "creationDate": "2024-08-10T16:00:00Z"
+    },
+    {
+        "productName": "Running Shoes",
+        "productImage": "https://img.drz.lazcdn.com/g/kf/S987a4634552743bfb39e7a3144739d577.jpg_2200x2200q80.jpg_.webp",
+        "description": "Lightweight running shoes with breathable mesh and cushioned soles.",
+        "price": 89.99,
+        "category": "Footwear",
+        "ratings": 4.3,
+        "creationDate": "2024-08-09T07:55:00Z"
+    },
+    {
+        "productName": "Instant Pot Pressure Cooker",
+        "productImage": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/m/i/miyako_epc-a502_electric_pressure_cooker.jpg",
+        "description": "Versatile 7-in-1 electric pressure cooker for easy meal preparation.",
+        "price": 99.99,
+        "category": "Home & Kitchen",
+        "ratings": 4.9,
+        "creationDate": "2024-08-08T11:10:00Z"
+    },
+    {
+        "productName": "Gaming Laptop",
+        "productImage": "https://m.media-amazon.com/images/I/611S5Rr01qL._AC_SX466_.jpg",
+        "description": "High-performance gaming laptop with the latest graphics and processing power.",
+        "price": 1499.99,
+        "category": "Computers",
+        "ratings": 4.7,
+        "creationDate": "2024-08-07T10:00:00Z"
+    },
+    {
+        "productName": "Leather Wallet",
+        "productImage": "https://m.media-amazon.com/images/I/718++rC3sgL._AC_SX569_.jpg",
+        "description": "Premium leather wallet with multiple card slots and RFID protection.",
+        "price": 39.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "creationDate": "2024-08-06T15:30:00Z"
+    },
+    {
+        "productName": "Portable Bluetooth Speaker",
+        "productImage": "https://m.media-amazon.com/images/I/71BZNyl3k0L._AC_SX466_.jpg",
+        "description": "Compact portable Bluetooth speaker with powerful sound and long battery life.",
+        "price": 49.99,
+        "category": "Electronics",
+        "ratings": 4.6,
+        "creationDate": "2024-08-05T13:45:00Z"
+    },
+    {
+        "productName": "Wireless Bluetooth Headphones",
+        "productImage": "https://m.media-amazon.com/images/I/51uZFlBrlUL._AC_SX466_.jpg",
+        "description": "High-quality wireless Bluetooth headphones with noise-canceling feature and up to 20 hours of battery life.",
+        "price": 59.99,
+        "category": "Electronics",
+        "ratings": 4.7,
+        "creationDate": "2024-08-13T10:15:00Z"
+    },
+    {
+        "productName": "Smart LED TV 55 Inch",
+        "productImage": "https://m.media-amazon.com/images/I/719SpNEn7-L._AC_SX679_.jpg",
+        "description": "55 inch 4K Ultra HD Smart LED TV with built-in streaming apps and voice control.",
+        "price": 449.99,
+        "category": "Electronics",
+        "ratings": 4.5,
+        "creationDate": "2024-08-12T09:30:00Z"
+    },
+    {
+        "productName": "Ergonomic Office Chair",
+        "productImage": "https://m.media-amazon.com/images/I/61CUGLzW65L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "Comfortable ergonomic office chair with lumbar support and adjustable height.",
+        "price": 129.99,
+        "category": "Furniture",
+        "ratings": 4.3,
+        "creationDate": "2024-08-11T14:45:00Z"
+    },
+    {
+        "productName": "Stainless Steel Water Bottle",
+        "productImage": "https://m.media-amazon.com/images/I/81CmWlQGYuL._AC_SX679_.jpg",
+        "description": "500ml insulated stainless steel water bottle, keeps drinks hot or cold for up to 12 hours.",
+        "price": 15.99,
+        "category": "Home & Kitchen",
+        "ratings": 4.8,
+        "creationDate": "2024-08-10T12:00:00Z"
+    },
+    {
+        "productName": "Gaming Laptop",
+        "productImage": "https://m.media-amazon.com/images/I/71xv4nQQdYL._AC_SX679_.jpg",
+        "description": "High-performance gaming laptop with 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3060.",
+        "price": 1199.99,
+        "category": "Electronics",
+        "ratings": 4.6,
+        "creationDate": "2024-08-09T11:20:00Z"
+    },
+    {
+        "productName": "Organic Cotton T-Shirt",
+        "productImage": "https://m.media-amazon.com/images/I/71isj+igOJL._AC_SY550_.jpg",
+        "description": "100% organic cotton t-shirt available in multiple colors and sizes.",
+        "price": 19.99,
+        "category": "Clothing",
+        "ratings": 4.4,
+        "creationDate": "2024-08-08T16:30:00Z"
+    },
+    {
+        "productName": "Bluetooth Smartwatch",
+        "productImage": "https://m.media-amazon.com/images/I/71JXMkGlhCL._AC_SX466_.jpg",
+        "description": "Bluetooth smartwatch with heart rate monitor, GPS, and customizable watch faces.",
+        "price": 89.99,
+        "category": "Electronics",
+        "ratings": 4.2,
+        "creationDate": "2024-08-07T13:10:00Z"
+    },
+    {
+        "productName": "Leather Wallet",
+        "productImage": "https://m.media-amazon.com/images/I/61bI-8FWHHS._AC_SX466_.jpg",
+        "description": "Premium leather wallet with multiple card slots and RFID blocking technology.",
+        "price": 39.99,
+        "category": "Accessories",
+        "ratings": 4.5,
+        "creationDate": "2024-08-06T10:50:00Z"
+    },
+    {
+        "productName": "Electric Kettle",
+        "productImage": "https://m.media-amazon.com/images/I/61ZabOOVgGL._AC_SX679_.jpg",
+        "description": "1.7L electric kettle with rapid boil technology and automatic shut-off.",
+        "price": 29.99,
+        "category": "Home & Kitchen",
+        "ratings": 4.6,
+        "creationDate": "2024-08-05T09:25:00Z"
+    },
+    {
+        "productName": "Wireless Mouse",
+        "productImage": "https://m.media-amazon.com/images/I/61YQeAUIboL._AC_SX466_.jpg",
+        "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+        "price": 25.99,
+        "category": "Electronics",
+        "ratings": 4.3,
+        "creationDate": "2024-08-04T15:05:00Z"
+    }
+]

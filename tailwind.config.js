@@ -9,6 +9,11 @@ export default {
       en_style: "Poppins, system-ui",
       bn_style: "Noto Serif Bengali, system-ui"
     },
+    colors: {
+      light :{
+        light: "#fff",
+      }
+    },
     extend: {},
   },
   plugins: [
