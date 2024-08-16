@@ -12,6 +12,11 @@ export default {
     colors: {
       light :{
         light: "#fff",
+      },
+      my_choice :{
+        yellow_400: "rgb(250 204 21)",
+        yellow_600: "rgb(202 138 4)",
+        yellow_800: "rgb(133 77 14)"
       }
     },
     extend: {},
