@@ -1,10 +1,10 @@
 
 // eslint-disable-next-line react/prop-types
 const ProductCard = ({ product }) => {
-    // eslint-disable-next-line no-unused-vars, react/prop-types
+    // eslint-disable-next-line react/prop-types
     const { productName, productImage, description, price, category, ratings, creationDate } = product;
     return (
-        <div className="card bg-light-light shadow-xl mx-auto">
+        <div className="card bg-light-light shadow-2xl mx-auto border-2 border-[rgb(75 85 99)]">
             <div className="card-body">
                 <div className="badge badge-md">{creationDate}</div>
                 <h2 className="card-title text-3xl text-base-300 font-bold uppercase">{productName}</h2>
@@ -19,7 +19,7 @@ const ProductCard = ({ product }) => {
                     </div>
                 </div>
                 <div className="text-right">
-                    <div className="badge badge-warning gap-2 uppercase">
+                    <div className="badge badge-warning gap-2 uppercase font-semibold tracking-wider">
                         {category}
                     </div>
                 </div>
